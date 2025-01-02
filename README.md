@@ -13,4 +13,5 @@ Room Rental Finder là một nền tảng giúp người dùng tìm kiếm và t
 - Backend: Node.js, Express.js
 - Cơ sở dữ liệu: MongoDB
 - Authentication: JWT (JSON Web Token)
+- Bcrypt: Mã hóa mật khẩu
 

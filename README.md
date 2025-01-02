@@ -7,7 +7,7 @@ Room Rental Finder là một nền tảng giúp người dùng tìm kiếm và t
 - Xem chi tiết phòng trọ (ảnh, mô tả, tiện ích).
 - Đăng ký tài khoản.
 - Liên hệ với chủ phòng trọ qua hệ thống nhắn tin trực tuyến.
-- 
+  
 ## Công nghệ sử dụng
 - Frontend: React.js, HTML, CSS, JavaScript
 - Backend: Node.js, Express.js

@@ -1,0 +1,5 @@
+_id,users[0].username,users[0].password,username,password,createdAt,__v
+677557040bb03ff513781e17,user1,password1,,,,
+67755755ab4cd42398a96d6e,,,test,$2a$10$XPILKcNcJiwTzZFtjpCj7ucKPU6jxzmwJdp68xCiOpqqK6lIqtYl.,2025-01-01T14:55:17.371Z,0
+6776136b1727cfc29fc397c9,,,testuser,$2a$10$ni0IYlbWzDWVa4Mkml3o.uK71lrPIcQOJ5vFnoEAqeg4vbHGWc0Ne,2025-01-02T04:17:47.323Z,0
+677617361727cfc29fc397ce,,,testuser2,$2a$10$6/vDvGOi3v7hV/r2oJ2Ksu9y2XPYHe/zwIrVognwepXcGFe0ClsWq,2025-01-02T04:33:58.971Z,0

@@ -14,4 +14,5 @@ Room Rental Finder là một nền tảng giúp người dùng tìm kiếm và t
 - Cơ sở dữ liệu: MongoDB
 - Authentication: JWT (JSON Web Token)
 - Bcrypt: Mã hóa mật khẩu
+![image](https://github.com/user-attachments/assets/0be6519e-ba4c-40cc-8eb2-6dd782ccbecd)
 

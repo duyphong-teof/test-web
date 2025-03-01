@@ -16,8 +16,10 @@ Room Rental Finder là một nền tảng giúp người dùng tìm kiếm và t
 - Bcrypt: Mã hóa mật khẩu
 ______________________________________________
   Trang chủ
-![image](https://github.com/user-attachments/assets/0be6519e-ba4c-40cc-8eb2-6dd782ccbecd).
+![image](https://github.com/user-attachments/assets/0be6519e-ba4c-40cc-8eb2-6dd782ccbecd)
+
      Trang chi tiết sản phẩm
-![image](https://github.com/user-attachments/assets/d0fece8e-e4de-4053-8ee7-1d8b9bce1891).
+![image](https://github.com/user-attachments/assets/d0fece8e-e4de-4053-8ee7-1d8b9bce1891)
+
      Trang đăng ký & đăng nhập
-![image](https://github.com/user-attachments/assets/d0e17122-dbfd-4df5-b978-03f7045d6bc7).
+![image](https://github.com/user-attachments/assets/d0e17122-dbfd-4df5-b978-03f7045d6bc7)
